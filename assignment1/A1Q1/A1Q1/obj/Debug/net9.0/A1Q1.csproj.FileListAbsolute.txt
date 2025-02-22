@@ -1,0 +1,14 @@
+/Users/georgegao/A1Q1/A1Q1/bin/Debug/net9.0/A1Q1
+/Users/georgegao/A1Q1/A1Q1/bin/Debug/net9.0/A1Q1.deps.json
+/Users/georgegao/A1Q1/A1Q1/bin/Debug/net9.0/A1Q1.runtimeconfig.json
+/Users/georgegao/A1Q1/A1Q1/bin/Debug/net9.0/A1Q1.dll
+/Users/georgegao/A1Q1/A1Q1/bin/Debug/net9.0/A1Q1.pdb
+/Users/georgegao/A1Q1/A1Q1/obj/Debug/net9.0/A1Q1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgegao/A1Q1/A1Q1/obj/Debug/net9.0/A1Q1.AssemblyInfoInputs.cache
+/Users/georgegao/A1Q1/A1Q1/obj/Debug/net9.0/A1Q1.AssemblyInfo.cs
+/Users/georgegao/A1Q1/A1Q1/obj/Debug/net9.0/A1Q1.csproj.CoreCompileInputs.cache
+/Users/georgegao/A1Q1/A1Q1/obj/Debug/net9.0/A1Q1.dll
+/Users/georgegao/A1Q1/A1Q1/obj/Debug/net9.0/refint/A1Q1.dll
+/Users/georgegao/A1Q1/A1Q1/obj/Debug/net9.0/A1Q1.pdb
+/Users/georgegao/A1Q1/A1Q1/obj/Debug/net9.0/A1Q1.genruntimeconfig.cache
+/Users/georgegao/A1Q1/A1Q1/obj/Debug/net9.0/ref/A1Q1.dll
