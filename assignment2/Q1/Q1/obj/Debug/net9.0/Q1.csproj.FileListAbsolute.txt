@@ -1,0 +1,14 @@
+/Users/georgegao/RiderProjects/Q1/Q1/bin/Debug/net9.0/Q1
+/Users/georgegao/RiderProjects/Q1/Q1/bin/Debug/net9.0/Q1.deps.json
+/Users/georgegao/RiderProjects/Q1/Q1/bin/Debug/net9.0/Q1.runtimeconfig.json
+/Users/georgegao/RiderProjects/Q1/Q1/bin/Debug/net9.0/Q1.dll
+/Users/georgegao/RiderProjects/Q1/Q1/bin/Debug/net9.0/Q1.pdb
+/Users/georgegao/RiderProjects/Q1/Q1/obj/Debug/net9.0/Q1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgegao/RiderProjects/Q1/Q1/obj/Debug/net9.0/Q1.AssemblyInfoInputs.cache
+/Users/georgegao/RiderProjects/Q1/Q1/obj/Debug/net9.0/Q1.AssemblyInfo.cs
+/Users/georgegao/RiderProjects/Q1/Q1/obj/Debug/net9.0/Q1.csproj.CoreCompileInputs.cache
+/Users/georgegao/RiderProjects/Q1/Q1/obj/Debug/net9.0/Q1.dll
+/Users/georgegao/RiderProjects/Q1/Q1/obj/Debug/net9.0/refint/Q1.dll
+/Users/georgegao/RiderProjects/Q1/Q1/obj/Debug/net9.0/Q1.pdb
+/Users/georgegao/RiderProjects/Q1/Q1/obj/Debug/net9.0/Q1.genruntimeconfig.cache
+/Users/georgegao/RiderProjects/Q1/Q1/obj/Debug/net9.0/ref/Q1.dll
