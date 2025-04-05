@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\vmware-host\\Shared Folders\\\u684C\u9762\\assignment6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC348D4-594E-498F-9C9C-B9F900E830B8}|Week6.csproj|\\\\vmware-host\\shared folders\\\u684C\u9762\\assignment6\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC348D4-594E-498F-9C9C-B9F900E830B8}|Week6.csproj|\\\\vmware-host\\shared folders\\\u684C\u9762\\assignment6\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC348D4-594E-498F-9C9C-B9F900E830B8}|Week6.csproj|\\\\vmware-host\\shared folders\\\u684C\u9762\\assignment6\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC348D4-594E-498F-9C9C-B9F900E830B8}|Week6.csproj|\\\\vmware-host\\shared folders\\\u684C\u9762\\assignment6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC348D4-594E-498F-9C9C-B9F900E830B8}|Week6.csproj|\\\\vmware-host\\shared folders\\\u684C\u9762\\assignment6\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC348D4-594E-498F-9C9C-B9F900E830B8}|Week6.csproj|\\\\vmware-host\\shared folders\\\u684C\u9762\\assignment6\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "\\\\vmware-host\\Shared Folders\\\u684C\u9762\\assignment6\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "OrderDetails.cs",
+              "ToolTip": "\\\\vmware-host\\Shared Folders\\\u684C\u9762\\assignment6\\OrderDetails.cs",
+              "RelativeToolTip": "OrderDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:39:06.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "\\\\vmware-host\\Shared Folders\\\u684C\u9762\\assignment6\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "\\\\vmware-host\\Shared Folders\\\u684C\u9762\\assignment6\\Form4.cs",
+              "RelativeToolTip": "Form4.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAhwJsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:29:34.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "\\\\vmware-host\\Shared Folders\\\u684C\u9762\\assignment6\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "\\\\vmware-host\\Shared Folders\\\u684C\u9762\\assignment6\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T07:28:46.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "\\\\vmware-host\\Shared Folders\\\u684C\u9762\\assignment6\\OrderService.cs",
+              "RelativeDocumentMoniker": "OrderService.cs",
+              "ToolTip": "\\\\vmware-host\\Shared Folders\\\u684C\u9762\\assignment6\\OrderService.cs",
+              "RelativeToolTip": "OrderService.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAtwOAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T03:42:32.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\vmware-host\\Shared Folders\\\u684C\u9762\\assignment6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "\\\\vmware-host\\Shared Folders\\\u684C\u9762\\assignment6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T03:27:37.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "\\\\vmware-host\\Shared Folders\\\u684C\u9762\\assignment6\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DatabaseHelper.cs",
+              "ToolTip": "\\\\vmware-host\\Shared Folders\\\u684C\u9762\\assignment6\\DatabaseHelper.cs",
+              "RelativeToolTip": "DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T03:24:35.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
